@@ -1,0 +1,1 @@
+An example app to manage Repetitive Tasks. It uses Jetpack Compose, Material3, MVVM, Navigation, Hilt and Room Database (with foreign keys)
